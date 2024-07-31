@@ -45,6 +45,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: baseline;
+  padding-down: 30px;
 }
 
 .btn {
